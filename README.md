@@ -1,31 +1,29 @@
 
-# Projeto Final: Análise Educacional com Python
+# Projeto de Análise de Dados do ENEM
 
-Este projeto tem como objetivo analisar uma base de dados fictícia de alunos para identificar padrões de desempenho escolar e sugerir estratégias de melhoria na educação.
+## Tema: Educação
 
-## Integrantes do grupo:
+### Integrantes:
 - Pedro
 - Bruno
 - Paula
 - Marcos
-- (Inserir nome do quinto integrante)
+- [Nome do outro integrante]
 
-## Tema:
-**Educação**
+## Objetivo
+Analisar os dados do ENEM para entender o comportamento dos estudantes em relação a notas e faltas, e relacionar esses dados com a situação da educação brasileira.
 
-## Linguagem:
-**Python** (Jupyter Notebook)
-
-## Componentes do Projeto:
-- `codigo/analise_educacional.ipynb`: Código-fonte com análises e gráficos.
-- `codigo/dados_alunos.csv`: Base de dados fictícia dos alunos.
-- `relatorio/relatorio-final.pdf`: Relatório completo do projeto.
-- `slides/apresentacao.pdf`: Apresentação em slides do trabalho.
-
-## Objetivo do Projeto
-Utilizar análise de dados com Python para encontrar padrões relevantes em um conjunto de dados educacionais. A meta é compreender quais fatores impactam mais o desempenho dos alunos e sugerir melhorias para instituições de ensino.
-
-## Ferramentas Utilizadas
-- Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
+## Ferramentas utilizadas
+- Python
 - Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Como executar
+1. Abra o notebook `codigo/analise_enem.ipynb` no Google Colab.
+2. Faça upload do arquivo `enem_2024.csv` da pasta `dados`.
+3. Execute todas as células para visualizar as análises e gráficos.
+
+## Licença
+MIT
